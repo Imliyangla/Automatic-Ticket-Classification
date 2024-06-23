@@ -6,6 +6,7 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Conclusions](#conclusions)
+* [Technologies Used](#technologies-used)
 * [Acknowledgements](#acknowledgements)
 
 
